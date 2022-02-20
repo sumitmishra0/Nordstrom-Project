@@ -1,5 +1,6 @@
 # Nordstrom Clone
 Nordstrom, is an American luxury department store chain. Founded in 1901 by John W. Nordstrom and Carl F. Wallin, it originated as a shoe store and evolved into a full-line retailer with departments for clothing, footwear, handbags, jewelry, accessories, cosmetics, and fragrances.
+# Reach out to my project https://relaxed-blackwell-8ba8bf.netlify.app/
 # Landing page
 
 This is landing page/Home page.
